@@ -4,7 +4,8 @@
 Estudante de Análise e desenvolviemnto de sistema, me expecializando na area de data science e machine learning.<br><br>
 ✨ analista de dados, criando insights ... <br>
 🖥 explorando frameworks e bibliotecas em python! <br>
-🎯 conhecimento em banco de dados.
+🎯 conhecimento em banco de dados... <br>
+☁️ apredendo mais sobre computação em nuvem.
 <br><br>
 
 ### entre em contato 📬
