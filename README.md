@@ -1,21 +1,22 @@
 ### Olá! Eu sou a Agatha Ruiz 👋
 
 <hr>
-Estudante de Análise e desenvolviemnto de sistema, me expecializando na area de data science e machine learning.
+Estudante de Análise e desenvolviemnto de sistema, me expecializando na area de data science e machine learning.<br><br>
+✨ analista de dados, criando insights ... <br>
+🖥 explorando frameworks e bibliotecas em python! <br>
+🎯 conhecimento em banco de dados.
 <br><br>
 
 ### entre em contato 📬
-
-<hr>
 <br>
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agatha-ruiz-a7b1062bb/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agatha_ruizz/?next=%2F)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 <br><br>
-### tecnologias 💻
-
 <hr>
+
+### tecnologias 💻
 <br>
 
 ### linguagens e ferramentas
